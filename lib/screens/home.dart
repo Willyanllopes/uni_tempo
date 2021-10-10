@@ -8,7 +8,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  List<String> _cidade = [
+  final List<String> _cidade = [
 
     "Aracaju",
     "Belém",
